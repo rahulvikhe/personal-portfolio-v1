@@ -1,15 +1,13 @@
 ---
 date: '1'
-title: 'Halcyon Theme'
-cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+cover: './Terraform.png'
+title: 'AWS Terraform 3-Tier IAC Solution'
+github: 'https://github.com/rahulvikhe/aws-terraform-3tier'
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - AWS
+  - Terraform
+  - Linux
+  - Shell
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+This project provides a complete Terraform-based infrastructure as code (IAC) solution for creating a scalable and resilient 3-tier architecture on Amazon Web Services (AWS).

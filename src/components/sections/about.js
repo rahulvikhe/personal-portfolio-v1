@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = ['Amazon Web Services', 'Linux', 'MySQL', 'HTML & CSS'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,33 +135,28 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Aspiring AWS Solutions Architect Associate with a strong passion for cloud computing
+              and a solid understanding of AWS services. I have recently completed AWS certification
+              and training and am eager to kickstart a career in cloud computing. I am actively
+              seeking opportunities to apply my experience, knowledge, abilities, and dedication to
+              contribute to the growth of an organization.
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              Currently, I hold two significant AWS certifications: AWS Certified Solutions
+              Architect - Associate (SAA-C03) and AWS Certified Cloud Practitioner. These
+              certifications reflect my commitment to cloud computing and my ability to excel in
+              crafting innovative solutions.
             </p>
 
             <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              Furthermore, I have recently successfully completed an AWS Solutions Architect
+              Associate course from{' '}
+              <a href="https://intellipaat.com/aws-certification-training-online/">Intellipaat</a> ,
+              further enhancing my expertise in the field.
             </p>
 
-            <p>Here are a few technologies I’ve been working with recently:</p>
+            <p>Here are a few technologies I’ve been studying with recently:</p>
           </div>
 
           <ul className="skills-list">

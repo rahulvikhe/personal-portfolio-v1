@@ -1,25 +1,37 @@
 import React from 'react';
 
-const IconLogo = () => (
-  <svg id="logo" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 84 96">
-    <title>Logo</title>
-    <g transform="translate(-8.000000, -2.000000)">
-      <g transform="translate(11.000000, 5.000000)">
-        <polygon
-          id="Shape"
-          stroke="currentColor"
-          strokeWidth="5"
-          strokeLinecap="round"
-          strokeLinejoin="round"
-          points="39 0 0 22 0 67 39 90 78 68 78 23"
-        />
-        <path
-          d="M45.691667,45.15 C48.591667,46.1 50.691667,48.95 50.691667,52.2 C50.691667,57.95 46.691667,61 40.291667,61 L28.541667,61 L28.541667,30.3 L39.291667,30.3 C45.691667,30.3 49.691667,33.15 49.691667,38.65 C49.691667,41.95 47.941667,44.35 45.691667,45.15 Z M33.591667,43.2 L39.241667,43.2 C42.791667,43.2 44.691667,41.85 44.691667,38.95 C44.691667,36.05 42.791667,34.8 39.241667,34.8 L33.591667,34.8 L33.591667,43.2 Z M33.591667,47.5 L33.591667,56.5 L40.191667,56.5 C43.691667,56.5 45.591667,54.75 45.591667,52 C45.591667,49.2 43.691667,47.5 40.191667,47.5 L33.591667,47.5 Z"
-          fill="currentColor"
-        />
+const IconLogo = () => {
+  // Your SVG code as a string
+  const svgCode = `
+    <?xml version="1.0" encoding="UTF-8"?>
+    <!-- Creator: CorelDRAW 2021 (64-Bit) -->
+    <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="7mm" height="7mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+    viewBox="0 0 846.66 750"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+      <defs>
+        <style type="text/css">
+          <![CDATA[
+            .fil0 {fill:#0A182E}
+            .fil1 {fill:#61FFD6;fill-rule:nonzero}
+          ]]>
+        </style>
+      </defs>
+      <g id="Layer_x0020_1">
+        <metadata id="CorelCorpID_0Corel-Layer"/>
+        <g id="_2148373572576">
+          <polygon class="fil0" points="771.6,624.4 597.46,724.94 423.33,825.49 249.19,724.95 75.05,624.41 75.06,423.33 75.06,222.26 249.2,121.72 423.33,21.17 597.47,121.71 771.61,222.25 771.6,423.33 "/>
+          <path class="fil1" d="M426.25 419.43c14.82,0 26.19,-3.51 34.11,-10.52 7.93,-7.02 11.89,-16.38 11.89,-28.07l0 -0.78c0,-13 -4.16,-22.74 -12.47,-29.24 -8.32,-6.5 -19.88,-9.74 -34.7,-9.74l-59.64 0 0 78.35 60.81 0zm-120.84 -132.54l124.74 0c34.57,0 61.07,9.22 79.53,27.68 15.59,15.59 23.39,36.38 23.39,62.37l0 0.78c0,22.09 -5.4,40.09 -16.18,53.99 -10.79,13.9 -24.89,24.11 -42.3,30.6l66.66 97.46 -70.17 0 -58.47 -87.32 -0.78 0 -46.39 0 0 87.32 -60.03 0 0 -272.88z"/>
+        </g>
       </g>
-    </g>
-  </svg>
-);
+    </svg>
+  `;
+
+  return (
+    <div>
+      <div dangerouslySetInnerHTML={{ __html: svgCode }} />
+    </div>
+  );
+};
 
 export default IconLogo;
