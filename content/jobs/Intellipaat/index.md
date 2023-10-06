@@ -4,7 +4,7 @@ title: 'AWS Solutions Architect Course from Intellipaat'
 company: 'Intellipaat'
 location: 'Online'
 range: 'Issue Date: Feb 20, 2023'
-url: 'https://intellipaat.com/aws-certification-training-online/'
+url: 'https://lms.intellipaat.com/certificate-link/?Yz05MTExOCZ1PTE2Njc0MyZleHQ9MQ=='
 ---
 
 - Completed a comprehensive AWS Solutions Architect course from Intellipaat, led by industry experts.
