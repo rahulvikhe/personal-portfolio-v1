@@ -5,26 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b6fc451-2af6-424e-927a-899a94bc3847" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/content/jobs/CLF/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/jobs/Intellipaat/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/jobs/SAA-CO3/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.husky/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.husky/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/featured/HalcyonTheme/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/featured/HalcyonTheme/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/jobs/Apple/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/jobs/Mullen/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/jobs/Scout/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/jobs/Starry/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/jobs/Upstatement/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/icons/logo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/icons/logo.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/loader.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/loader.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/sections/about.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sections/about.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/sections/contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sections/contact.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/sections/hero.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sections/hero.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/sections/jobs.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sections/jobs.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
