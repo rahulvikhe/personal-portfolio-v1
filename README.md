@@ -7,7 +7,7 @@
 <p align="center">
   The first iteration of <a href="https://rahulvikhe.cloud" target="_blank">rahulvikhe.cloud</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://aws.amazon.com/" target="_blank">AWS</a>
 
-![demo](https://raw.githubusercontent.com/bchiang7/v4/main/src/images/demo.png)
+![demo](/src/images/demo.png)
 
 ## 🚨 Forking this repo (please read!)
 
