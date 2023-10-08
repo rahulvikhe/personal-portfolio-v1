@@ -38,7 +38,7 @@ const StyledLinkWrapper = styled.div`
 
 const Email = ({ isHome }) => (
   <Side isHome={isHome} orientation="right">
-    <StyledLinkWrapper>{email}</StyledLinkWrapper>
+    <StyledLinkWrapper></StyledLinkWrapper>
   </Side>
 );
 

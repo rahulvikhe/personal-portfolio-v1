@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import styled from 'styled-components';
-import { BsFillArrowUpSquareFill } from 'react-icons/bs';
+import { AiFillUpSquare } from 'react-icons/ai';
 
 const ScrollButtonWrapper = styled.div`
   position: fixed;
@@ -20,8 +20,8 @@ const ScrollButton = styled.button`
   color: inherit;
   border: none;
   border-radius: 50%;
-  width: 40px;
-  height: 40px;
+  width: 50px;
+  height: 50px;
   font-size: inherit;
   cursor: pointer;
   transition: transform 0.2s ease, color 0.2s ease; /* Add a color transition for smooth color change */
@@ -36,7 +36,7 @@ const ScrollToTopButton = () => {
 
   useEffect(() => {
     const toggleVisibility = () => {
-      if (window.scrollY > 300) {
+      if (window.scrollY > 1000) {
         setIsVisible(true);
       } else {
         setIsVisible(false);
@@ -60,7 +60,7 @@ const ScrollToTopButton = () => {
   return (
     <ScrollButtonWrapper visible={isVisible} onClick={scrollToTop}>
       <ScrollButton>
-        <BsFillArrowUpSquareFill />
+        <AiFillUpSquare />
       </ScrollButton>
     </ScrollButtonWrapper>
   );
