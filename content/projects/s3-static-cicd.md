@@ -8,7 +8,6 @@ tech:
   - AWS CodePipeline
   - GitHub
   - Amazon Route 53
-company: ''
 showInProjects: true
 ---
 
