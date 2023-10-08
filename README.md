@@ -9,11 +9,16 @@
 
 ![demo](/src/images/demo.png)
 
-## 🚨 Forking this repo (please read!)
+## 🚨 Repository Fork Notice (Please Read!)
 
-## Credits
-- The design and layout of this project are heavily influenced by Brittany Chiang's portfolio.
-- Code snippets and components have been adapted from Brittany Chiang's project, in accordance with her licensing terms.
+Credits
+
+The design and layout of this project draw substantial inspiration from Brittany Chiang's portfolio.
+Code snippets and components have been adapted from Brittany Chiang's project, in strict compliance with her licensing terms.
+
+Original Source: [Brittany Chiang's Portfolio Project](https://github.com/bchiang7/v4)
+
+Please ensure you review and adhere to the licensing terms and conditions set forth in Brittany Chiang's project repository.
 
 
 ## 🛠 Installation & Set Up
