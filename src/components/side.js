@@ -10,7 +10,6 @@ const StyledSideElement = styled.div`
   position: fixed;
   bottom: 0;
   left: ${props => (props.orientation === 'left' ? '40px' : 'auto')};
-  right: ${props => (props.orientation === 'left' ? 'auto' : '40px')};
   z-index: 10;
   color: var(--light-slate);
 

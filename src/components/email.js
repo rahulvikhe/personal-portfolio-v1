@@ -1,8 +1,9 @@
+/* eslint-disable no-unused-vars */
 import React from 'react';
 import PropTypes from 'prop-types';
 import styled from 'styled-components';
-import { email } from '@config';
 import { Side } from '@components';
+import { email } from '@config';
 
 const StyledLinkWrapper = styled.div`
   display: flex;
@@ -16,7 +17,7 @@ const StyledLinkWrapper = styled.div`
     width: 1px;
     height: 90px;
     margin: 0 auto;
-    background-color: var(--light-slate);
+    /* background-color: var(--light-slate); */ // Comment out this line to remove right vertical line
   }
 
   a {
@@ -37,9 +38,7 @@ const StyledLinkWrapper = styled.div`
 
 const Email = ({ isHome }) => (
   <Side isHome={isHome} orientation="right">
-    <StyledLinkWrapper>
-      <a href={`mailto:${email}`}>{email}</a>
-    </StyledLinkWrapper>
+    <StyledLinkWrapper>{email}</StyledLinkWrapper>
   </Side>
 );
 

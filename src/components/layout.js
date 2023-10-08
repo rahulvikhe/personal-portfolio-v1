@@ -3,6 +3,7 @@ import PropTypes from 'prop-types';
 import styled, { ThemeProvider } from 'styled-components';
 import { Head, Loader, Nav, Social, Email, Footer } from '@components';
 import { GlobalStyle, theme } from '@styles';
+import ScrollToTopButton from './ScrollToTopButton'; // Adjust the import path as needed
 
 const StyledContent = styled.div`
   display: flex;
@@ -70,6 +71,7 @@ const Layout = ({ children, location }) => {
                 {children}
                 <Footer />
               </div>
+              <ScrollToTopButton />
             </StyledContent>
           )}
         </ThemeProvider>
