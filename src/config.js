@@ -12,15 +12,11 @@ module.exports = {
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/bchian',
+      url: 'https://twitter.com/rahulvikhe05',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/rahulvikhe42',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/rahulvikhe42',
+      url: 'https://www.linkedin.com/in/rahulvikhe25',
     },
   ],
 
