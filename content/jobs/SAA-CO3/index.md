@@ -1,12 +1,14 @@
 ---
 date: '2023-08-30'
-title: 'AWS Certified Solutions Architect - Associate SAA-C03'
+title: 'AWS Certified Solutions Architect - Associate SAA-CO3'
 company: 'AWS'
 location: 'Online'
-range: 'Certified on Aug 30, 2023'
+range: 'Issue Date: Aug 30, 2023'
 url: 'https://www.credly.com/badges/7611b72e-a8d3-4b31-9537-785979b928b0/public_url'
 ---
 
-- Achieved AWS Certified Solutions Architect - Associate SAA-C03 certification, demonstrating expertise in architecting solutions on AWS.
-- Obtained on August 30, 2023.
-- Demonstrated knowledge in AWS services, best practices, and architectural design.
+- AWS service expertise in compute, networking, storage, and databases
+- Deployment and management of AWS workloads
+- Strong focus on security and compliance
+- Proficiency in AWS Management Console and CLI
+- Well-versed in AWS Well-Architected Framework and infrastructure design
