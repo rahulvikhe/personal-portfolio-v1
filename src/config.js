@@ -1,5 +1,5 @@
 module.exports = {
-  email: 'Scroll Down',
+  email: 'rahulvikhe25@gmail.com',
 
   socialMedia: [
     {
