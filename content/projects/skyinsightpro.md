@@ -8,6 +8,10 @@ tech:
   - Cordova
   - Backbone
   - Marionette
+  - HTML
+  - CSS
+  - JavaScript
+  - API
 company: ''
 showInProjects: true
 ---
