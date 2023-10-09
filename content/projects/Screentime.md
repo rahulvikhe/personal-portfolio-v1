@@ -1,15 +1,15 @@
 ---
 date: '2016-11-01'
-title: 'Screentime 2.0'
-github: ''
-external: 'https://starry.com/blog/product/whats-new-screentime-just-got-better-for-parents'
-android: 'https://play.google.com/store/apps/details?id=com.starry.management&hl=en_US'
+title: 'SkyInsightPro'
+github: 'https://github.com/rahulvikhe/skyinsightpro'
+external: ''
+android: ''
 tech:
   - Cordova
   - Backbone
   - Marionette
-company: 'Starry'
-showInProjects: false
+company: ''
+showInProjects: true
 ---
 
-Starry Station android app feature that provided users with the ability to easily filter content, pause the internet, and even create custom rules for blocking apps like Facebook and Twitter right from their phones.
+SkyInsightPro Weather Information System is a web-based application designed to provide real-time weather information to users. This project utilizes HTML and CSS for front-end development and integrates with various APIs to fetch and display up-to-date weather data.
