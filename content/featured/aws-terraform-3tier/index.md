@@ -3,6 +3,7 @@ date: '1'
 cover: './Terraform.png'
 title: 'AWS Terraform 3-Tier IAC Solution'
 github: 'https://github.com/rahulvikhe/aws-terraform-3tier'
+cta: 'https://github.com/rahulvikhe/aws-terraform-3tier'
 tech:
   - AWS
   - Terraform
