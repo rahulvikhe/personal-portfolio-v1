@@ -5,9 +5,6 @@ github: 'https://github.com/rahulvikhe/skyinsightpro'
 external: ''
 android: ''
 tech:
-  - Cordova
-  - Backbone
-  - Marionette
   - HTML
   - CSS
   - JavaScript
