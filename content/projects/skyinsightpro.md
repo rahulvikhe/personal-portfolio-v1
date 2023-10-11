@@ -2,7 +2,7 @@
 date: '2016-11-01'
 title: 'SkyInsightPro'
 github: 'https://github.com/rahulvikhe/skyinsightpro'
-external: ''
+external: 'https://github.com/rahulvikhe/skyinsightpro'
 android: ''
 tech:
   - HTML
