@@ -1,0 +1,10 @@
+# Exclude source code and development files
+src/
+tests/
+.gitignore
+.npmignore
+package-lock.json
+node_modules/
+content/
+static/
+
