@@ -3,14 +3,27 @@ version: 0.2
 phases:
   install:
     runtime-versions:
-      nodejs: 14   # Specify the desired Node.js version
+      nodejs: 14
+
+  pre_build:
     commands:
       - npm install
 
-build:
-  commands:
-    - npm run build
+  build:
+    commands:
+      - npm run build
+
+  post_build:
+    commands:
+      - aws s3 sync dist/ s3://your-s3-bucket/production/
+        --exclude "*.cache" \
+        --exclude "node_modules/*"
+        --exclude ".git/*"
+        --exclude ".husky/*"
+        --exclude "test/*"
+        --exclude "content/*"
+        --exclude "src/*"
+        --exclude "static/*"
 
 artifacts:
-  files:
-    - '**/*'
+  files: '**/*'
