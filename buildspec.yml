@@ -15,15 +15,7 @@ phases:
 
   post_build:
     commands:
-      - aws s3 sync dist/ s3://rahulvikhe.com/production/
-        --exclude "*.cache" \
-        --exclude "node_modules/*"
-        --exclude ".git/*"
-        --exclude ".husky/*"
-        --exclude "test/*"
-        --exclude "content/*"
-        --exclude "src/*"
-        --exclude "static/*"
+      - aws s3 sync dist/ s3://rahulvikhe.com/production/ --exclude "*.cache" --exclude "node_modules/*" --exclude ".git/*" --exclude ".husky/*" --exclude "test/*" --exclude "content/*" --exclude "src/*" --exclude "static/*"
 
 artifacts:
   files: '**/*'
