@@ -15,7 +15,7 @@ phases:
 
   post_build:
     commands:
-      - aws s3 sync dist/ s3://your-s3-bucket/production/
+      - aws s3 sync dist/ s3://rahulvikhe.com/production/
         --exclude "*.cache" \
         --exclude "node_modules/*"
         --exclude ".git/*"
