@@ -1,8 +1,8 @@
 ---
 date: '2023-10-06'
 title: 'Personal Portfolio V1'
-github: 'https://rahulvikhe/rahulvikhe-cloud'
-external: 'rahulvikhe.com'
+github: 'https://github.com/rahulvikhe/personal-portfolio-v1.git'
+external: 'https://github.com/rahulvikhe/personal-portfolio-v1.git'
 tech:
   - Gatsby
   - AWS

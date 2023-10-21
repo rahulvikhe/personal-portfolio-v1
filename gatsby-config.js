@@ -7,7 +7,7 @@ module.exports = {
       'Rahul is a cloud enthusiast, with a specialization in creating and optimizing outstanding digital solutions.',
     siteUrl: 'https://rahulvikhe.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@rahulvikhe05',
+    twitterUsername: '@rahulvikhe25',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
