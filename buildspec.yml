@@ -3,7 +3,7 @@ version: 0.2
 phases:
   install:
     runtime-versions:
-      nodejs: 14.16
+      nodejs: 14
     commands:
       - npm install -g yarn
       - npm install -g gatsby-cli
