@@ -2,10 +2,10 @@
   <img alt="Logo" src="src/images/logo.png" />
 </div>
 <h1 align="center">
-  rahulvikhe.cloud
+  rahulvikhe.com
 </h1>
 <p align="center">
-  The first iteration of <a href="https://rahulvikhe.cloud" target="_blank">rahulvikhe.cloud</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://aws.amazon.com/" target="_blank">AWS</a>
+  The first iteration of <a href="https://rahulvikhe.cloud" target="_blank">rahulvikhe.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://aws.amazon.com/" target="_blank">AWS</a>
 
 ![demo](/src/images/demo.png)
 
@@ -19,7 +19,6 @@ Code snippets and components have been adapted from Brittany Chiang's project, i
 Original Source: [Brittany Chiang's Portfolio Project](https://github.com/bchiang7/v4)
 
 Please ensure you review and adhere to the licensing terms and conditions set forth in Brittany Chiang's project repository.
-
 
 ## 🛠 Installation & Set Up
 
