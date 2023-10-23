@@ -11,6 +11,6 @@ company: ''
 showInProjects: true
 ---
 
-The first iteration of rahulvikhe.com built with Gatsby and hosted with AWS.
+The first iteration of rahulvikhe.com built with Node.js and hosted with AWS.
 
 Code snippets and components have been adapted from Brittany Chiang's project
