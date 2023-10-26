@@ -125,14 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = [
-    'Amazon Web Services',
-    'Terraform',
-    'Linux (Ubuntu)',
-    'MySQL',
-    'Git',
-    'HTML & CSS',
-  ];
+  const skills = ['Amazon Web Services', 'Python', 'Linux (Ubuntu)', 'MySQL', 'Git', 'HTML & CSS'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -142,18 +135,10 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Aspiring AWS Solutions Architect Associate with a strong passion for cloud computing
-              and a solid understanding of AWS services. I have recently completed AWS certification
-              and training and am eager to kickstart a career in cloud computing. I am actively
-              seeking opportunities to apply my experience, knowledge, abilities, and dedication to
-              contribute to the growth of an organization.
-            </p>
-
-            <p>
-              Currently, I hold two significant AWS certifications: AWS Certified Solutions
-              Architect - Associate (SAA-C03) and AWS Certified Cloud Practitioner. These
-              certifications reflect my commitment to cloud computing and my ability to excel in
-              crafting innovative solutions.
+              I'm an aspiring AWS Cloud Architect with a passion for cloud computing and a strong
+              understanding of AWS services. My recent AWS certifications, including AWS Certified
+              Solutions Architect - Associate (SAA-C03) and AWS Certified Cloud Practitioner,
+              showcase my commitment to crafting innovative solutions.
             </p>
 
             <p>
