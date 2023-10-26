@@ -3,7 +3,7 @@ date: '2023-04-12'
 title: 'AWS Certified Cloud Practitioner (CLF)'
 company: 'AWS'
 location: 'Online'
-range: 'Certified on Apr 12, 2023'
+range: 'Issue Date: Apr 12, 2023'
 url: 'https://www.credly.com/badges/5c4300cf-2aad-44b6-904c-b641a2261a92'
 ---
 
