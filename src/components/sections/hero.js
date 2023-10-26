@@ -65,19 +65,17 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I am a cloud enthusiast, with a specialization in creating and optimizing outstanding
-        digital solutions. My current focus centers around crafting user-friendly, human-centric
-        cloud products, leveraging my expertise to drive innovation and enhance accessibility, all
-        while specializing in{' '}
+        I'm a passionate Cloud Enthusiast with a specialization in{' '}
         <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-          AWS cloud
-        </a>
-        .
+          AWS{' '}
+        </a>{' '}
+        cloud. My work involves creating innovative and accessible cloud solutions, with a strong
+        emphasis on optimizing CI/CD processes for efficient deployment.
       </p>
     </>
   );
   const five = (
-    <a className="email-link" href="https://github.com/rahulvikhe" target="_blank" rel="noreferrer">
+    <a className="email-link" href="#projects">
       Check out my projects!
     </a>
   );
