@@ -5,7 +5,7 @@
   rahulvikhe.com
 </h1>
 <p align="center">
-  The first iteration of <a href="https://rahulvikhe.cloud" target="_blank">rahulvikhe.com</a> built with <a href="https://https://nodejs.org/" target="_blank">node.js</a> and hosted with <a href="https://aws.amazon.com/" target="_blank">AWS</a>
+  The first iteration of <a href="https://rahulvikhe.cloud" target="_blank">rahulvikhe.com</a> built with <a href="https://https://nodejs.org/" target="_blank">node.js</a> and hosted on <a href="https://aws.amazon.com/" target="_blank">AWS</a>
 
 ![demo](/src/images/demo.png)
 
