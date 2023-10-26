@@ -5,7 +5,7 @@
   rahulvikhe.com
 </h1>
 <p align="center">
-  The first iteration of <a href="https://rahulvikhe.cloud" target="_blank">rahulvikhe.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://aws.amazon.com/" target="_blank">AWS</a>
+  The first iteration of <a href="https://rahulvikhe.cloud" target="_blank">rahulvikhe.com</a> built with <a href="https://https://nodejs.org/" target="_blank">node.js</a> and hosted with <a href="https://aws.amazon.com/" target="_blank">AWS</a>
 
 ![demo](/src/images/demo.png)
 
@@ -27,7 +27,7 @@ Please ensure you review and adhere to the licensing terms and conditions set fo
    ```sh
    npm install -g gatsby-cli
    ```
-
+ 
 2. Install and use the correct version of Node using [NVM](https://github.com/nvm-sh/nvm)
 
    ```sh
