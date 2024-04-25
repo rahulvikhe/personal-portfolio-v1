@@ -1,7 +1,7 @@
 ---
 date: '24-04-2024'
 cover: './image.png'
-title: 'Node.js Application Deployment on AWS EC2 with CI/CD using GitHub Actions and Docker'
+title: 'Node.js Application Deployment'
 github: 'https://github.com/rahulvikhe/nodejs-notes-app'
 cta: 'https://medium.com/@rahulvikhe25/deployment-of-node-js-application-on-ec2-with-ci-cd-using-github-actions-and-docker-container-46c3efa2905f'
 tech:
